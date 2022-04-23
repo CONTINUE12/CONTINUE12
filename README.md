@@ -1,5 +1,6 @@
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=CONTINUE12&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CONTINUE12&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CONTINUE12)](https://github.com/anuraghazra/github-readme-stats)
 
 我是Sup，一名喜欢钻研技术的研究僧~ 
 
