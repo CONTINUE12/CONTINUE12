@@ -6,4 +6,5 @@
 
 - 🔭 目前在北京望京
 - 🌱 技术领域Java
-- 📫 技术博客：https://blog.csdn.net/qq_39144436
+- 📫 博客：https://blog.csdn.net/qq_39144436
+- 🌱 微信公众号：IT路旅记
